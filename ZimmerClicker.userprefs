@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PerSec.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Click.cs" Line="34" Column="6" />
+      <File FileName="Assets\Scripts\FlyBy.cs" Line="22" Column="36" />
+      <File FileName="Assets\Scripts\ItemManager.cs" Line="32" Column="36" />
+      <File FileName="Assets\Scripts\UpgradeManager.cs" Line="31" Column="46" />
+      <File FileName="Assets\Scripts\PerSec.cs" Line="41" Column="22" />
+      <File FileName="Assets\Scripts\TabManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DialogueManager.cs" Line="25" Column="17" />
+      <File FileName="Assets\Scripts\Fader.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AchievementManager.cs" Line="85" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
